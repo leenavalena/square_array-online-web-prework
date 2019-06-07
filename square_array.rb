@@ -1,4 +1,4 @@
-
+it == square_array
 it 'does not call on collect/map or inject'
 
 def square_array(numbers)
